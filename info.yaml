@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Liesel Wong
+    netid: lyw8
+  - name: Angela Xiao 
+    netid: ax38
+  - name: Amy Mai
+    netid: am2556
+  - name: Alif Abdullah
+    netid: aa2298
+# Your PM.
+pm:
+  name: Allen Chen
+  netid: ac2324
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "The Best OCaml Typing Game"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ax38/cs3110-final"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: "https://youtu.be/csCfJ2eJuD4"
+desc: >
+  Our project is an interactive typing game. We created bags of words that creates randomly generated
+  text sequences for users to type. We have a timer showing the user how long they were typing and a UI 
+  interface to show what users have typed. We have different visual modes and different types of bags 
+  to get a wide variety of text sequences. 

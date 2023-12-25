@@ -1,0 +1,6 @@
+(library
+ (name TypeGame)
+ (public_name TypeGame)
+ (libraries str graphics unix lwt)
+ (instrumentation
+  (backend bisect_ppx)))
